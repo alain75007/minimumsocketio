@@ -1,0 +1,14 @@
+{
+  "name": "monApplication",
+  "author": "Alain Beauvois",
+  "description": "Une application",
+  "version": "0.0.1",
+  "dependencies": {
+      "connect": "3.2.x",
+      "body-parser": "1.8.x",
+      "socket.io": "x"
+  },
+  "engine": "0.10.x",
+  "socketio": "1.1.x",
+  "main": "server.js"
+}
